@@ -1,26 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\projects\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\projects\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\projects\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\projects\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\VietMinh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\projects\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VietMinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

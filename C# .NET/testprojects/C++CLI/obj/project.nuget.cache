@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVyKc8AgaHv/Fg/8A1nLVTZIyM9lKQSHdtYqI2RkXWn6ch6nCEkUUfC0A43CSHP2jjkXiwXskK2yU/akLAOo0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VietMinh\\Documents\\learn-coding\\C# .NET\\testprojects\\C++CLI\\C++CLI.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VietMinh\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
+  ],
+  "logs": []
+}

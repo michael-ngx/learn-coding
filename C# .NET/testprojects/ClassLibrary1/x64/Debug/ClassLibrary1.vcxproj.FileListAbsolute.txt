@@ -1,0 +1,1 @@
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\ClassLibrary1\x64\Debug\ClassLibrary1.vcxproj.AssemblyReference.cache

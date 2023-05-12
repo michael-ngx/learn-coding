@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ClassLibrary1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ClassLibrary1.vcxproj -> C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\x64\Debug\ClassLibrary1.dll

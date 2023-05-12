@@ -1,0 +1,5 @@
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\x64\Debug\Ijwhost.dll
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\x64\Debug\C++CLI.deps.json
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\x64\Debug\C++CLI.runtimeconfig.json
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\C++CLI\x64\Debug\C++CLI.vcxproj.AssemblyReference.cache
+C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\C++CLI\x64\Debug\C++CLI.genruntimeconfig.cache

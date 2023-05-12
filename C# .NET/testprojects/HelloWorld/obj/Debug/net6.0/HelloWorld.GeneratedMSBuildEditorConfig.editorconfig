@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = c:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\
+build_property.ProjectDir = C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\
