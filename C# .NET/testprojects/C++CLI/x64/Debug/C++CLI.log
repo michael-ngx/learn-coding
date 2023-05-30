@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  AssemblyInfo.cpp
-  C++CLI.cpp
-  Generating Code...
-  .NETCoreApp,Version=v7.0.AssemblyAttributes.cpp
-  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  C++CLI.vcxproj -> C:\Users\VietMinh\Documents\learn-coding\C# .NET\testprojects\HelloWorld\x64\Debug\C++CLI.dll
