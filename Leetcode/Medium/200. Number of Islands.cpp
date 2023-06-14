@@ -1,8 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <unordered_map>
-#include <queue>
-using namespace std;
+#include "common.h"
 
 /*******************************************************************************************************************************
  * First Attempt - Mark island land based on nearby "1" 
