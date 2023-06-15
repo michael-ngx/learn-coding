@@ -1,5 +1,6 @@
 #include "common.h"
 
+// Beats 33.1% time, 73.57% memory
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {

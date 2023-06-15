@@ -1,5 +1,6 @@
 #include "common.h"
 
+// Beats 65.7% time, 74.26% memory
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target)

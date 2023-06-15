@@ -1,5 +1,6 @@
 #include "common.h"
 
+// Beats 65.7% time, 74.26% memory
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -41,4 +42,34 @@ public:
         }
         return best_length;
     }
+};
+
+/*******************************************************************************************************************************
+ * Super smart solution !!!!!!!!!!!!!!!!!!!!!!!!!
+ ********************************************************************************************************************************/
+class SuperSmart {
+public:
+	int lengthOfLongestSubstring(const string& s) {
+		int i = 0;
+		int j = 0;
+
+		bool inWindow[255]{};
+		int len = 0;
+
+		while(j < s.size())
+		{
+			if(inWindow[s[j]])
+			{
+				inWindow[s[i]] = false;
+				++i;
+			}
+			else
+			{
+				inWindow[s[j]] = true;
+				++j;
+			}
+			len = std::max(j - i, len);
+		}
+		return len;
+	}
 };

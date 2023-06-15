@@ -1,5 +1,6 @@
 #include "common.h"
 
+// Beats 70.68% time, 63.4% memory
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
