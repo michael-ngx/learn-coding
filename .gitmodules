@@ -1,3 +1,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/michael-ngx/leetcode.git
+[submodule "C/phonebook"]
+	path = C/phonebook
+	url = https://github.com/michael-ngx/PhoneBook.git
